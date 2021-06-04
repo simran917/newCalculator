@@ -1,0 +1,13 @@
+D:\calcii\bin\Debug\netcoreapp3.1\calcii.exe
+D:\calcii\bin\Debug\netcoreapp3.1\calcii.deps.json
+D:\calcii\bin\Debug\netcoreapp3.1\calcii.runtimeconfig.json
+D:\calcii\bin\Debug\netcoreapp3.1\calcii.runtimeconfig.dev.json
+D:\calcii\bin\Debug\netcoreapp3.1\calcii.dll
+D:\calcii\bin\Debug\netcoreapp3.1\calcii.pdb
+D:\calcii\obj\Debug\netcoreapp3.1\calcii.csprojAssemblyReference.cache
+D:\calcii\obj\Debug\netcoreapp3.1\calcii.AssemblyInfoInputs.cache
+D:\calcii\obj\Debug\netcoreapp3.1\calcii.AssemblyInfo.cs
+D:\calcii\obj\Debug\netcoreapp3.1\calcii.csproj.CoreCompileInputs.cache
+D:\calcii\obj\Debug\netcoreapp3.1\calcii.dll
+D:\calcii\obj\Debug\netcoreapp3.1\calcii.pdb
+D:\calcii\obj\Debug\netcoreapp3.1\calcii.genruntimeconfig.cache
